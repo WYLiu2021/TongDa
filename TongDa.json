@@ -105,6 +105,29 @@
                   }
                }
             },
+                        {
+               "route":"HYUNDAI",
+               "dirs":{
+                  "0":{
+                     "routeings":{
+                        "1":{
+                           "stages":{
+                              "0":{
+                                 "dest":"现代",
+                                 "pages":[
+                                    {
+                                       "frontid":"rbxassetid://138821770985166",
+                                       "sideid":"rbxassetid://104540526489359",
+                                       "backid":"rbxassetid://104540526489359"
+                                    }
+                                 ]
+                              }
+                           }
+                        }
+                     }
+                  }
+               }
+            },
             {
                "route":"ADLO",
                "dirs":{
